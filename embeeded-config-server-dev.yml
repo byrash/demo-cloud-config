@@ -1,2 +1,2 @@
-hello
+hello:
  message3: 'From embeeded-config-server-dev.yml file'
